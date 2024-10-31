@@ -1,0 +1,125 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-26 19:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-26 19:04+0000\n"
+"PO-Revision-Date: 2016-10-26 19:04+0000\n"
+"Last-Translator: gasalia <sistemas@tgminformatica.es>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-10-26 19:04+0000\n"
+"PO-Revision-Date: 2016-10-26 19:08+0000\n"
+"Last-Translator: gasalia <sistemas@tgminformatica.es>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es-ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: read-more-description-link-for-woocommerce.php:44
+msgid ""
+"Description Read More Link plugin is enabled but not effective. It requires "
+"WooCommerce in order to work."
+msgstr ""
+"Enlace Leer más en Descripciones para Woocommerce está habilitado pero no es "
+"posible utilizarlo. Se requiere tener WooCommerce activado para funcionar."
+
+#: read-more-description-link-for-woocommerce.php:56
+msgid "Settings"
+msgstr "Ajustes"
+
+#: admin/read-more-description-link-for-woocommerce-admin.php:66
+msgid "Additional Description"
+msgstr "Descripción adicional"
+
+#: admin/read-more-description-link-for-woocommerce-admin.php:141
+msgid "Product and Category description Read More link"
+msgstr ""
+"Enlace Leer más con descripción adicional de Producto y Categoría de producto"
+
+#: admin/read-more-description-link-for-woocommerce-admin.php:146
+msgid "Show additional product description"
+msgstr "Mostrar descripción adicional en descripción de producto"
+
+#: admin/read-more-description-link-for-woocommerce-admin.php:147
+msgid ""
+"Enable Additional Description and show Read More link in Product Description "
+"Tab."
+msgstr ""
+"Habilitar descripción adicional y mostrar enlace Leer más en pestaña "
+"Descripción de producto."
+
+#: admin/read-more-description-link-for-woocommerce-admin.php:156
+msgid "Show additional product category description"
+msgstr "Mostrar descripción adicional en descripción de categoría de producto"
+
+#: admin/read-more-description-link-for-woocommerce-admin.php:157
+msgid ""
+"Enable Additional Description and show Read More link in Product Category "
+"section."
+msgstr ""
+"Habilitar Descripción adicional y mostrar enlace Leer más en sección "
+"Categoría de producto."
+
+#: admin/views/additional_product_category_description_add_form.php:11 
+#: admin/views/additional_product_category_description_edit_form.php:14
+msgid "Additional description"
+msgstr "Descripción adicional"
+
+#: admin/views/additional_product_category_description_add_form.php:13 
+#: admin/views/additional_product_category_description_edit_form.php:20 
+#: admin/views/additional_product_description_form.php:13
+msgid "Additional description will show when clicking on Read more link."
+msgstr ""
+"La Descripción Adicional se mostrará cuando se pulse en el enlace \"Leer "
+"más\""
+
+#: public/views/product_category_description_read_more.php:22 
+#: public/views/product_description_read_more.php:22
+msgid "Read more"
+msgstr "Leer más"
+
+#: public/views/product_category_description_read_more.php:26 
+#: public/views/product_description_read_more.php:26
+msgid "Hide"
+msgstr "Ocultar"
+
+#. Name of the plugin
+msgid "Read more Description link for WooCommerce"
+msgstr "Enlace Leer más en Descripciones para WooCommerce"
+
+#. Description of the plugin
+msgid ""
+"Add additional product description and category description in order to show "
+"it when clicking on Read more link"
+msgstr ""
+"Añade una descripción adicional en la descripción de producto y categoría de "
+"producto con el fin de mostrar más información a través de un enlace Leer más"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "http://www.tgminformatica.es"
+msgstr ""
+
+#. Author of the plugin
+msgid "TGM Ingeniería Informática<info@tgminformatica.es>"
+msgstr ""
